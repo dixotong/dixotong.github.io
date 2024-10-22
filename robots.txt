@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dixotong.github.io/dixotong.dixotong
+Sitemap: https://dixotong.github.io/app/dixotong.dixotong
+Sitemap: https://dixotong.github.io/assets/dixotong.dixotong
+Sitemap: https://dixotong.github.io/css/dixotong.dixotong
+Sitemap: https://dixotong.github.io/includes/dixotong.dixotong
+Sitemap: https://dixotong.github.io/item/dixotong.dixotong
+Sitemap: https://dixotong.github.io/src/dixotong.dixotong
